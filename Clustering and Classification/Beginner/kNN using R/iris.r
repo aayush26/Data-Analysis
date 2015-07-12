@@ -1,6 +1,6 @@
 #load iris.csv
 #set the directory where the files are pulled
-setwd("C:/Users/The Timekeeper/Desktop/")
+setwd("E:/git/Data-Analysis/Clustering and Classification/Beginner/kNN using R/")
 #RStudio has default iris dataset. To use that, skip the below line.
 iris <- read.csv("iris.csv")            
 #all work are done on a copy variable of iris
