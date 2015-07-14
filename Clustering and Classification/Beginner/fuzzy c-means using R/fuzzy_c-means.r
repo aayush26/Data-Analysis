@@ -2,7 +2,7 @@
 library("e1071")
 #access inbuilt dataset - iris
 data(iris)
-#store it to a variable;though not necessary
+#store it to a variable; provides reusability and acts as a template
 x<-iris
 #remove Species column
 x$Species <- NULL
