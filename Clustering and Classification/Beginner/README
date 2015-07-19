@@ -1,0 +1,14 @@
+The beginner section is focussed as an initiation to start programming in R and perform basic operations for clustering, classification and other functions.
+
+The contents covered till now:
+- kNN 
+- fuzzy c-means
+- normalization
+
+Dataset used:
+iris
+preinstalled and readily available in RStudio 
+
+or download from:
+https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
+Copy the entire text from this link and save as iris.csv
