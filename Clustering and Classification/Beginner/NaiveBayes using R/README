@@ -1,0 +1,14 @@
+Naive Bayes Binary Classifier using e1071 library in R
+
+The dataset is derived from arduino.stackexchange.com dump.
+The purpose of the classier is to classify the posts into hardware and software.
+
+test_one.csv  ->  single post for testing the classifier
+test_set.csv  ->  the entire test set for the classifier
+train_set.csv -> training set for the classifier
+
+To run the script,
+open R in terminal in the folder path destination
+type source("naiveBayes.r")
+
+The output will the predicted classes for posts from 10 to 20 from the test set.
