@@ -1,0 +1,2 @@
+pred
+the teensy series from pjrc.com allows usb midi natively (full usb speed!). it works well and does not require any firmware tomfoolery. it can also do hid keyboard/mouse/joystick natively as well.there's the 2.0, which is 32u4, and the 2.0++ which has more pins and memory. if you want to step off the atmel reservation the teensy 3.0 and 3.1 have more speed and memory; in a couple of weeks they are coming out with a teensy lc which is a 3 with less bells and whistles for cheaper.
