@@ -4,11 +4,13 @@ The contents covered till now:
 - kNN 
 - fuzzy c-means
 - normalization
+- Naive Bayes Classifier(using e1071) 
 
 Dataset used:
-iris
-preinstalled and readily available in RStudio 
+iris: preinstalled and readily available in RStudio 
 
 or download from:
 https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
 Copy the entire text from this link, paste it in the notepad and save it as iris.csv
+
+custom data-set 1: For Naive Bayes, a custom data-set is used and included with it.
